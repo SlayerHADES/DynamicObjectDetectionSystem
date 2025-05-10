@@ -1,10 +1,9 @@
 
 ---
-
+ 📦 Dynamic Object Detection System
 ````markdown
-# 📦 Dynamic Object Detection System
 
----
+
 
 ## 🔍 Features
 
@@ -14,7 +13,6 @@
 - **High Accuracy:** Maintains over 90% detection accuracy with minimal false positives.
 - **Resource Efficient:** Operates with low CPU and memory usage—ideal for edge devices like Raspberry Pi.
 
----
 
 ## 🛠️ Technologies Used
 
@@ -23,7 +21,6 @@
 - TensorFlow / Keras
 - Teachable Machine
 
----
 
 ## 🚀 How to Run
 
@@ -52,7 +49,6 @@
    python main.py
    ```
 
----
 
 ## 📂 Project Structure
 
@@ -63,7 +59,6 @@
 ├── requirements.txt     # Python dependencies
 ```
 
----
 
 ## 🤖 Example Use Cases
 
@@ -71,7 +66,6 @@
 * Motion-triggered Object Identification
 * Lightweight Edge AI Applications (e.g., Raspberry Pi)
 
----
 
 ## 💡 Future Improvements
 
@@ -79,7 +73,6 @@
 * Deploy via Flask web interface
 * Add object tracking for persistent IDs
 
----
 
 ## 🙌 Acknowledgements
 
@@ -87,7 +80,6 @@
 * [OpenCV](https://opencv.org/)
 * [TensorFlow](https://www.tensorflow.org/)
 
----
 
 ## 📬 Contact
 
