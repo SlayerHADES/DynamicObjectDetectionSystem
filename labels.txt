@@ -1,0 +1,5 @@
+0 Deodorant
+1 Serum
+2 Smartwatch
+3 HairWax
+4 Earbuds
