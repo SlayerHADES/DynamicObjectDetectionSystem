@@ -5,16 +5,16 @@
 
 
 
-## 🔍 Features
+ 🔍 Features
 
-- **Motion Detection:** Utilizes frame differencing to detect movement and define Regions of Interest (ROIs).
-- **Image Classification:** Employs a Keras model exported from Teachable Machine to classify detected objects.
-- **Real-Time Performance:** Achieves 10–15 FPS on standard CPUs.
-- **High Accuracy:** Maintains over 90% detection accuracy with minimal false positives.
-- **Resource Efficient:** Operates with low CPU and memory usage—ideal for edge devices like Raspberry Pi.
+- Motion Detection: Utilizes frame differencing to detect movement and define Regions of Interest (ROIs).
+- Image Classification: Employs a Keras model exported from Teachable Machine to classify detected objects.
+- Real-Time Performance: Achieves 10–15 FPS on standard CPUs.
+- High Accuracy: Maintains over 90% detection accuracy with minimal false positives.
+- Resource Efficient: Operates with low CPU and memory usage—ideal for edge devices like Raspberry Pi.
 
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 - Python 3.8+
 - OpenCV
@@ -22,28 +22,28 @@
 - Teachable Machine
 
 
-## 🚀 How to Run
+ 🚀 How to Run
 
-1. **Clone this repository:**
+1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 ````
 
-2. **Install dependencies:**
+2. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Add your model files:**
+3. Add your model files:
 
    * `keras_model.h5`
    * `labels.txt`
 
    *(Exported from [Teachable Machine](https://teachablemachine.withgoogle.com/))*
 
-4. **Run the script:**
+4. Run the script:
 
    ```bash
    python main.py
